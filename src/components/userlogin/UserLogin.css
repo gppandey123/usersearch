@@ -1,0 +1,13 @@
+.login{
+    
+   /* background-color: red; */
+   width: 50%;
+   margin:10rem auto;
+   background-color: rgba(0,0,0,0.3);
+}
+
+.login form{
+    /* background-color: antiquewhite; */
+    width: 50%;
+    margin: auto;
+}
